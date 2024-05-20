@@ -1,0 +1,18 @@
+{
+  "name": "vercel-public-directory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:axelsuarezdev/vercel-public-directory.git",
+  "author": "lechuza2013 <julian_s_99@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
